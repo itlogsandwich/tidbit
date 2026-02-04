@@ -1,0 +1,28 @@
+#home-header {
+  text-shadow: 2px 2px;
+}
+
+.h1-headers {
+  font-family: "Cloister Black", "Monaco", "Papyrus";
+}
+
+#home-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #3d4346;
+}
+
+#home-left-portion {
+  display: flex;
+  flex-direction: column;
+}
+
+#home-center-portion {
+  display: flex;
+}
+
+#home-right-portion {
+  display: flex;
+  flex-direction: column;
+}
