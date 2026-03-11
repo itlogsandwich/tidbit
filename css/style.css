@@ -1,15 +1,14 @@
 h1{
   position: absolute;
   color: red;
-  top: 0px;
-  left: 0px;
+  font-size: 75px;
 }
 
 body {
   background-color: black;
 }
 
-#container {
+main {
   position: absolute;
   background-color: black;
   width: 100%;
